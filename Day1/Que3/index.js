@@ -9,3 +9,4 @@ console.log(student.subjects);
 student.subjects.forEach((sub) => {
   console.log(sub);
 });
+
